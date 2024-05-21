@@ -1,11 +1,5 @@
-libofonobinderpluginext (1.1.0) unstable; urgency=low
+ofono-binder-plugin (1.14-6+gnumdk1) unstable; urgency=medium
 
-  * Stable release of the extension API
+  * Initial release
 
- -- Slava Monich <slava.monich@jolla.com>  Fri, 22 Apr 2022 04:04:02 +0300
-
-libofonobinderpluginext (1.0.3) unstable; urgency=low
-
-  * Added debian packaging for the extension lib
-
- -- Slava Monich <slava.monich@jolla.com>  Sun, 03 Apr 2022 21:07:21 +0300
+ -- Cédric Bellegarde <cedric.bellegarde@adishatz.org>  Fri, 10 May 2024 19:10:29 +0100
